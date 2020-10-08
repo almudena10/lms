@@ -1,2 +1,2 @@
 # lms
-lenguajes de marcas
+lenguajes de marcas.

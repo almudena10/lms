@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    margin: 50px;
+}
+td,th{
+    border-style: solid;
+    padding: 15px;
+    border-width: 1px;
+    border-color: red;
+}
+td{
+    color:darkblue;
+    padding: 5pk;
+    text-align: start;
+}
+th{
+    background-color: aqua;
+}
+tfoot{
+    background-color: bisque;
+    font-weight: bold;
+    text-align: right;
+}
+#celdamesa{
+    font-weight: bold;
+}

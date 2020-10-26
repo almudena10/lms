@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:blue;
+}
+ul{
+    border-style: unset;
+    width: 40%;
+
+}
+
+ol{
+    border-style: groove;
+    width: 60%;
+    list-style-type: decimal-leading-zero;
+}
+li{
+    width: 60%;
+}
+#celdaD{
+    color: red;
+}
+#Textob{
+    color: seagreen;
+}
+.ol2{
+    list-style-type: upper-roman;
+}
+

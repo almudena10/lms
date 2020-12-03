@@ -1,0 +1,10 @@
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+div{
+    background-color: aqua;
+    padding: 20px;
+}
